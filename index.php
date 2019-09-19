@@ -9,6 +9,7 @@
     <input type="file" name="uploaded_file"></input><br />
     <input type="submit" value="Upload"></input>
   </form>
+  <?php phpinfo() ?>
 </body>
 </html>
 <?PHP
